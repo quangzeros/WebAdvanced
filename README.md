@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7c494349-a0e2-4294-9df0-f7d8bd2b1628)# Web Đặt Sân Bóng ⚽
+# Web Đặt Sân Bóng ⚽
 
 ## 🚀 Giới thiệu
 Dự án **Web Đặt Sân Bóng** là một ứng dụng giúp người dùng dễ dàng tìm kiếm và đặt sân bóng trực tuyến. Hệ thống hỗ trợ quản lý sân bóng, đặt lịch, và theo dõi thông tin người dùng. Dự án bao gồm **Backend** sử dụng **Laravel** và **Frontend** phát triển bằng **React.js**.
