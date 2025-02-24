@@ -17,7 +17,7 @@ Dự án **Web Đặt Sân Bóng** là một ứng dụng giúp người dùng d
 
 ## 🏗️ Công nghệ sử dụng
 ### Backend (Laravel)
-- Laravel 9.x
+- Laravel 11.x
 - MySQL (Cơ sở dữ liệu)
 - Laravel Passport (Xác thực API)
 - Laravel Policy (Phân quyền)
