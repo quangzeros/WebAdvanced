@@ -60,6 +60,11 @@ npm start  # Chạy ứng dụng React
 | `/api/orders` | POST | Đặt sân |
 | `/api/orders/{id}` | DELETE | Hủy đặt sân |
 
+## Sơ đồ ERD
+
+![image](https://github.com/user-attachments/assets/b5b88e3d-7109-42a8-8db5-52764b96238b)
+
+
 ## Hình ảnh website
 
 ![image](https://github.com/user-attachments/assets/4d93aea0-b707-45f4-8e4d-f85b8a6db1ba)
